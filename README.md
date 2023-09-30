@@ -4,12 +4,6 @@ This repository can be used as a template for creating a TypeScript project usin
 
 ## Instructions
 
-- Click the "Use this template" button
-
-- Click "Create new repository"
-
-- Give your repository a name and click "Create repository from template"
-
 - Clone down your new repository to your computer
 
 - Navigate to the directory on your command line
